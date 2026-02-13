@@ -2,7 +2,7 @@
 
 This is a PyTorch implementation of the paper "**Physics-Informed Implicit Neural Representation for Wireless Imaging in RIS-Aided ISAC System**" in *IEEE Transactions on Wireless Communications*.
 Its conference version will be presented in ICC 2026, Glasgow, Scotland, UK, May 2025.
-Arxiv link: 
+Arxiv link: https://arxiv.org/abs/2601.15113
 
 This paper introduces **implicit neural representation** for wireless imaging and applies it to RIS-aided ISAC systems.
 Specifically, physics-informed loss functions are formulated based on wireless channel models to impose physical constraints during NN training.
