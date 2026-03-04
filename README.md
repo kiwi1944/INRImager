@@ -37,7 +37,9 @@ Re-execute the inference process derives the predicted image.
   title={Physics-Informed Implicit Neural Representation for Wireless Imaging in {RIS}-Aided {ISAC} System},  
   author={Huang, Yixuan and Yang, Jie and Wen, Chao-Kai and Jin, Shi},
   journal={IEEE Trans. Wireless Commun.},
-  year={early access, Feb. 2025},
+  volume={25},
+  pages={12341--12357},
+  year={Feb. 2025},
   publisher={IEEE}
 }
 
